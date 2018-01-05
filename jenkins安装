@@ -12,3 +12,5 @@ Jenkins安装
 	 systemctl start jenkins
 	 less /var/log/jenkins/jenkins.log  //查询admin密码
 	 访问http://IP:8080/进行安装
+
+:+1: :+1: :+1:
