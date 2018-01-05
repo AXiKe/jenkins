@@ -1,4 +1,4 @@
 # jenkins
-my jenkins study
+my jenkins study.
 
-my jenkins study step 1
+1、jinkens的安装；
